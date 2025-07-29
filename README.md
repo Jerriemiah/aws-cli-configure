@@ -1,6 +1,6 @@
-# 🔐 Mini Project – Setting Up Secure Authentication to AWS API
+#  Mini Project – Setting Up Secure Authentication to AWS API
 
-## 👋 Introduction
+##  Introduction
 
 Hi! In this project, I set up **secure authentication** to AWS so I could use the **AWS CLI (Command Line Interface)** on a **Linux machine** to interact with AWS services like **EC2** and **S3**.
 
